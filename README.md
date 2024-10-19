@@ -2,7 +2,7 @@
 
 This repository contains an exercise designed to practice using Git.
 
-GitHub pages: https://oleojake.github.io/Exercise_Unit5_website/
+🔗 GitHub pages: https://oleojake.github.io/Exercise_Unit5_website/
 
 ## Technologies Used
 
